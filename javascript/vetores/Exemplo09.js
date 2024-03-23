@@ -2,4 +2,4 @@
 
 console.log("Elemento na posição 7: " + vetorInteiros.indexOf( 7));
 
-console.log("Elemento na posição 2: " + vetorInteiros.indexOf(2));
+console.log("Elemento na posição 2: " + vetorInteiros.indexOf(20));

@@ -2,7 +2,7 @@
 
 let vetorInteiros = new Array(5);
 
-for (let indice = 0; indice <= 5; indice++) {
+for (let indice = 0; indice < 5; indice ++) {
     vetorInteiros[indice] = leia.questionInt(`Digite o numero ${indice + 1}: `);
 }
 
