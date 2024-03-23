@@ -1,4 +1,4 @@
-﻿const leia = require("readline-sync");
+const leia = require("readline-sync");
 
 let soma = 0;
 
